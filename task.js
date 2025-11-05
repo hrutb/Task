@@ -110,7 +110,7 @@
       console.log(distance);
        
 
-//8.wap to solve this equation 
+//wap to solve this equation 
    //               -b+b-4ac
    //         u = -------------
    //                  2a
